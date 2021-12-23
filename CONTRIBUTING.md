@@ -1,7 +1,7 @@
 ## Contributing guide
 This document serves as a checklist before contributing to this repository.
 It includes links to read up on if topics are unclear to you.
-
+   
 This guide mainly focuses on the proper use of Git.
 
 ### 1. Before opening an issue
